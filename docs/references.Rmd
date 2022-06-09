@@ -4,11 +4,11 @@ title: "References"
 
 ## Papers to read for background information
 
-The mitochondrial genome of Pocillopora (Cnidaria: Scleractinia) contains two variable regions: The putative D-loop and a novel ORF of unknown function
+[The mitochondrial genome of Pocillopora (Cnidaria: Scleractinia) contains two variable regions: The putative D-loop and a novel ORF of unknown function](https://www.sciencedirect.com/science/article/abs/pii/S0378111907003666?via%3Dihub)
 
-Blind to morphology: genetics identifies several widespread ecologically common species and few endemics among Indo‐Pacific cauliflower corals (Pocillopora, Scleractinia)
+[Blind to morphology: genetics identifies several widespread ecologically common species and few endemics among Indo‐Pacific cauliflower corals (Pocillopora, Scleractinia)](https://onlinelibrary.wiley.com/doi/10.1111/jbi.12110)
 
-Slow mitochondrial DNA sequence evolution in the Anthozoa (Cnidaria)
+[Slow mitochondrial DNA sequence evolution in the Anthozoa (Cnidaria)](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294X.2002.01652.x)
 
 No variation and low synonymous substitution rates in coral mtDNA despite high nuclear variation
 

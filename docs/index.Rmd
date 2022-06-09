@@ -3,4 +3,5 @@ title: "Home"
 ---
 
 # Raising Coral Costa Rica presents:
-![](./images/English.png)
+
+<img align="right" src="./images/English.png" width="400" alt="Workshop flyer">  

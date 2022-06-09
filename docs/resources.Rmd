@@ -2,6 +2,14 @@
 title: "Resources"
 ---
 
+## Resources for learning fundamentals of genetics, evolution, and conservation genomics
+
+
+
+## Resources for learning about DNA extractiona molecular biology laboratory techniques
+
+
+
 ## Learning resources and links for starting out in coding for bioinformatics
 
 Open terminal, practice exercises in Software carpentry: Unix command line https://swcarpentry.github.io/shell-novice/
