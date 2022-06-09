@@ -1,5 +1,5 @@
 ---
-title: "references"
+title: "References"
 ---
 
 ## Papers to read for background information

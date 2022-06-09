@@ -1,5 +1,5 @@
 ---
-title: "resources"
+title: "Resources"
 ---
 
 ## Learning resources and links for starting out in coding for bioinformatics
