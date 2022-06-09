@@ -6,4 +6,5 @@ navbar:
       href: index.html
     - text: "Resources"
       href: resources.html
-output_dir: "./pages"
+output_dir: "./docs"
+theme: jekyll-theme-cayman
