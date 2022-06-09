@@ -10,40 +10,41 @@ title: "References"
 
 [Slow mitochondrial DNA sequence evolution in the Anthozoa (Cnidaria)](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294X.2002.01652.x)
 
-No variation and low synonymous substitution rates in coral mtDNA despite high nuclear variation
+[No variation and low synonymous substitution rates in coral mtDNA despite high nuclear variation](https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-6-24)
 
-Phylogenomics, Origin, and Diversification of Anthozoans (Phylum Cnidaria)
+[Phylogenomics, Origin, and Diversification of Anthozoans (Phylum Cnidaria)](https://doi.org/10.1093/sysbio/syaa103)
 
-Computational Characterization of the mtORF of Pocilloporid Corals: Insights into Protein Structure and Function in Stylophora Lineages from Contrasting Environments
+[Computational Characterization of the mtORF of Pocilloporid Corals: Insights into Protein Structure and Function in Stylophora Lineages from Contrasting Environments](https://www.mdpi.com/2073-4425/10/5/324)
 
-Patterns of genetic structure among Hawaiian corals of the genus Pocillopora yield clusters of individuals that are compatible with morphology
+[Patterns of genetic structure among Hawaiian corals of the genus Pocillopora yield clusters of individuals that are compatible with morphology](https://doi.org/10.1016/j.crvi.2007.12.003)
 
-Haplowebs as a graphical tool for delimiting species: a revival of Doyle's "field for recombination" approach and its application to the coral genus Pocillopora in Clipperton
+[Haplowebs as a graphical tool for delimiting species: a revival of Doyle's "field for recombination" approach and its application to the coral genus Pocillopora in Clipperton](https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-10-372) 
 
-Extreme phenotypic polymorphism in the coral genus Pocillopora; micro-morphology corresponds to mitochondrial groups, while colony morphology does not
+[Extreme phenotypic polymorphism in the coral genus Pocillopora; micro-morphology corresponds to mitochondrial groups, while colony morphology does not](https://doi.org/10.5343/bms.2012.1080)
 
-New evidence shows that Pocillopora ‘damicornis-like’ corals in Singapore are actually Pocillopora acuta
-Rarity of the “common” coral Pocillopora damicornis in the western Philippine archipelago
+[New evidence shows that Pocillopora ‘damicornis-like’ corals in Singapore are actually Pocillopora acuta](https://bdj.pensoft.net/articles.php?id=11407)
 
-A simple molecular technique for distinguishing species reveals frequent misidentification of Hawaiian corals in the genus Pocillopora 
+[Rarity of the “common” coral Pocillopora damicornis in the western Philippine archipelago](https://link.springer.com/article/10.1007/s00338-018-1729-3)
 
-With eyes wide open: a revision of species within and closely related to the Pocillopora damicornis species complex (Scleractinia; Pocilloporidae) using morphology and genetics
+[A simple molecular technique for distinguishing species reveals frequent misidentification of Hawaiian corals in the genus Pocillopora](https://peerj.com/articles/4355/) 
 
-A genomic glance through the fog of plasticity and diversification in Pocillopora 
+[With eyes wide open: a revision of species within and closely related to the Pocillopora damicornis species complex (Scleractinia; Pocilloporidae) using morphology and genetics](https://onlinelibrary.wiley.com/doi/abs/10.1111/zoj.12092)
 
-Comparative analysis of the Pocillopora damicornis genome highlights role of immune system in coral evolution
+[A genomic glance through the fog of plasticity and diversification in Pocillopora](https://www.nature.com/articles/s41598-017-06085-3)
 
-Genome of the Cauliflower Coral Pocillopora verrucosa
+[Comparative analysis of the Pocillopora damicornis genome highlights role of immune system in coral evolution](https://www.nature.com/articles/s41598-018-34459-8)
 
-Switch between Morphospecies of Pocillopora Corals
+[Genome of the Cauliflower Coral Pocillopora verrucosa](https://academic.oup.com/gbe/article/12/10/1911/5898631)
 
-Molecular assessment of Pocillopora verrucosa (Scleractinia; Pocilloporidae) distribution along a depth gradient in Ludao, Taiwan
+[Switch between Morphospecies of Pocillopora Corals](https://www.journals.uchicago.edu/doi/full/10.1086/682363)
 
-Niche differences in co-occurring cryptic coral species (Pocillopora spp.)
+[Molecular assessment of Pocillopora verrucosa (Scleractinia; Pocilloporidae) distribution along a depth gradient in Ludao, Taiwan](https://peerj.com/articles/5797/)
 
-Response diversity in corals: hidden differences in bleaching mortality among cryptic Pocillopora species
+[Niche differences in co-occurring cryptic coral species (Pocillopora spp.)](https://link.springer.com/article/10.1007/s00338-021-02107-9)
 
-Solving the Coral Species Delimitation Conundrum
+[Response diversity in corals: hidden differences in bleaching mortality among cryptic Pocillopora species](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3324)
+
+[Solving the Coral Species Delimitation Conundrum](https://academic.oup.com/sysbio/article/71/2/461/6372710?login=true)
 
 ***
 
