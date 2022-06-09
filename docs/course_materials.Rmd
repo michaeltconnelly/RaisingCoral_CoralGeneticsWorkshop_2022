@@ -8,17 +8,20 @@ title: "Course Materials - Costa Rica coral genetics workshop for conservation a
 
 ### Lecture Sessions 
 
-I. Introduction to the course - Slides Link
+I. Introduction to the course - Slide  Links: [ES](https://drive.google.com/file/d/1Q4EfOdMmATJr1qH5C2riH3g5SCA192wK/view?usp=sharing)
+
   * Instructors
   * Participants
   * Course Goals
 
-II. Costa Rica coral restoration - Slides Link 
+II. Costa Rica coral restoration - Slide Links
+
   * Raising Coral Costa Rica
   * Culebra Reef Gardens
   * Description of *Pocillopora* samples to be analyzed during the workshop
 
 III. Fundamentals of genetics and evolution - Slides Link
+
   * DNA structure and chromosomal organization
   * Mendelian inheritance
   * Evolution by natural selection
