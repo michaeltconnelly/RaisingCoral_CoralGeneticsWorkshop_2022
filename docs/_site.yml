@@ -4,9 +4,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Course Materials"
+      href: course_materials.html
     - text: "Resources"
       href: resources.html
     - text: "References"
       href: references.html
 output_dir: "."
-theme: jekyll-theme-cayman

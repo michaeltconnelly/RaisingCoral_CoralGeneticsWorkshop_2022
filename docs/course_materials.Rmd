@@ -1,0 +1,78 @@
+---
+title: "Course Materials"
+---
+# Costa Rica coral genetics workshop for conservation and restoration
+
+## Course Outline
+### Lecture Sessions 
+
+I. Introduction to the course - Slides Link
+  * Instructors
+  * Participants
+  * Course Goals
+
+II. Costa Rica coral restoration - Slides Link
+  * Raising Coral Costa Rica
+  * Culebra Reef Gardens
+  * Description of Pocillopora samples to be analyzed during the workshop
+
+III. Fundamentals of genetics and evolution - Slides Link
+  * DNA structure and chromosomal organization
+  * Mendelian inheritance
+  * Evolution by natural selection
+  * Molecular methods in genetics
+	    + DNA extraction
+	    + Polymerase chain reaction
+	    + Gel electrophoresis
+	    + Restriction fragment length polymorphism
+
+IV. Introduction to conservation genetics and species delimitation - Slides Link
+  * Extinction
+  * Genetic diversity 
+  * Importance of species delimitation and taxonomy
+  * Measuring genetic diversity - mtDNA, microsatellites, SNPs, whole genomes
+
+VI. Eastern Pacific coral diversity
+
+  *Family 
+    + Carophyllia
+    + Fungia
+    + Gardinoseris
+    + Leptoseris
+    + Pavona
+    + Pocillopora
+    + Porites
+    + Psammocora
+    + Tubastrea
+
+VI. Coral-algae symbiosis in the eastern tropical Pacific
+
+
+VII. Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections
+  * Anthozoan evolution, coral diversity and morphology-based taxonomy
+  * Coral extinctions and current trajectories
+
+VIII. Conservation genetics for coral restoration
+
+IX. Genomics and high-throughput sequencing in conservation biology
+
+### Laboratory Hands-On Sessions
+
+Laboratory safety and techniques
+
+1. DNA extraction
+  * Protocol Link (protocols.io?)
+
+2. DNA concentration, purity and quality check
+  * Protocol Link
+
+3. Gel electrophoresis
+  * Protocol Link
+
+4. Polymerase chain reaction (PCR)
+  * Protocol Link
+
+5. Restriction fragment length polymorphism (RFLP) assays
+  * Protocol Link
+
+

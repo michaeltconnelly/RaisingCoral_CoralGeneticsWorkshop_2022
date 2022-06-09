@@ -6,4 +6,5 @@ title: "Home"
 
 <img align="left" src="./images/English.png" width="400" alt="Workshop flyer">  
 
-Workshop Schedule
+![Workshop Schedule](./pdfs/WorkshopSchedule.pdf)
+
