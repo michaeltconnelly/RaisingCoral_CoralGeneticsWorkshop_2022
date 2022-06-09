@@ -1,7 +1,6 @@
 ---
-title: "index"
+title: "Home"
 ---
 
-## Raising Coral
-## Genetics workshop for conservation and restoration
-## July 18 - 21, 2022
+# Raising Coral Costa Rica presents:
+![](./images/English.png)

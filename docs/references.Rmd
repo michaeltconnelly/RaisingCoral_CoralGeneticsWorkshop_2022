@@ -1,0 +1,46 @@
+---
+title: "references"
+---
+
+## Papers to read for background information
+
+The mitochondrial genome of Pocillopora (Cnidaria: Scleractinia) contains two variable regions: The putative D-loop and a novel ORF of unknown function
+
+Blind to morphology: genetics identifies several widespread ecologically common species and few endemics among Indo‐Pacific cauliflower corals (Pocillopora, Scleractinia)
+
+Slow mitochondrial DNA sequence evolution in the Anthozoa (Cnidaria)
+
+No variation and low synonymous substitution rates in coral mtDNA despite high nuclear variation
+
+Phylogenomics, Origin, and Diversification of Anthozoans (Phylum Cnidaria)
+
+Computational Characterization of the mtORF of Pocilloporid Corals: Insights into Protein Structure and Function in Stylophora Lineages from Contrasting Environments
+
+Patterns of genetic structure among Hawaiian corals of the genus Pocillopora yield clusters of individuals that are compatible with morphology
+
+Haplowebs as a graphical tool for delimiting species: a revival of Doyle's "field for recombination" approach and its application to the coral genus Pocillopora in Clipperton
+
+Extreme phenotypic polymorphism in the coral genus Pocillopora; micro-morphology corresponds to mitochondrial groups, while colony morphology does not
+
+New evidence shows that Pocillopora ‘damicornis-like’ corals in Singapore are actually Pocillopora acuta
+Rarity of the “common” coral Pocillopora damicornis in the western Philippine archipelago
+
+A simple molecular technique for distinguishing species reveals frequent misidentification of Hawaiian corals in the genus Pocillopora 
+
+With eyes wide open: a revision of species within and closely related to the Pocillopora damicornis species complex (Scleractinia; Pocilloporidae) using morphology and genetics
+
+A genomic glance through the fog of plasticity and diversification in Pocillopora 
+
+Comparative analysis of the Pocillopora damicornis genome highlights role of immune system in coral evolution
+
+Genome of the Cauliflower Coral Pocillopora verrucosa
+
+Switch between Morphospecies of Pocillopora Corals
+
+Molecular assessment of Pocillopora verrucosa (Scleractinia; Pocilloporidae) distribution along a depth gradient in Ludao, Taiwan
+
+Niche differences in co-occurring cryptic coral species (Pocillopora spp.)
+
+Response diversity in corals: hidden differences in bleaching mortality among cryptic Pocillopora species
+
+Solving the Coral Species Delimitation Conundrum

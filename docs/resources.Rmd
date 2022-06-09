@@ -2,4 +2,22 @@
 title: "resources"
 ---
 
-## Learning resources and links
+## Learning resources and links for starting out in coding for bioinformatics
+
+Open terminal, practice exercises in Software carpentry: Unix command line https://swcarpentry.github.io/shell-novice/
+
+Install R https://www.r-project.org/ and RStudio https://www.rstudio.com/products/rstudio/download/
+
+Practice exercises in Software carpentry: programming in R http://swcarpentry.github.io/r-novice-inflammation/  
+
+Install the R packages in the tidyverse https://www.tidyverse.org/, explore making plots with ggplot2 https://ggplot2.tidyverse.org/ 
+
+Explore the R graph gallery website https://r-graph-gallery.com/
+
+Start practicing the exercises in the R for Data Science book https://r4ds.had.co.nz/
+
+Practice exercises in Hands-On Programming with R book https://rstudio-education.github.io/hopr/
+
+Create a GitHub account and make your first repository https://github.com/
+
+Begin using RMarkdown https://rmarkdown.rstudio.com/ and create an R notebook for making simple plots https://rmarkdown.rstudio.com/lesson-10.html
