@@ -1,0 +1,9 @@
+name: "Raising Coral Workshop"
+navbar:
+  title: "Raising Coral Workshop"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resources"
+      href: resources.html
+output_dir: "./pages"
