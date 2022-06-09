@@ -45,6 +45,8 @@ Response diversity in corals: hidden differences in bleaching mortality among cr
 
 Solving the Coral Species Delimitation Conundrum
 
+***
+
 ## Eastern Tropical Pacific coral biodiversity and biogeographic patterns 
 
 A biogeographic analysis and review of the far eastern Pacific coral reef region
@@ -52,6 +54,8 @@ A biogeographic analysis and review of the far eastern Pacific coral reef region
 The Eastern Tropical Pacific coral population connectivity and the role of the Eastern Pacific Barrier
 
 Coral reef resilience to thermal stress in the Eastern Tropical Pacific
+
+***
 
 ## Referencias en español
 

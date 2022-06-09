@@ -1,9 +1,11 @@
 ---
-title: "Course Materials"
+title: "Course Materials - Costa Rica coral genetics workshop for conservation and restoration"
 ---
-# Costa Rica coral genetics workshop for conservation and restoration
 
 ## Course Outline
+
+***
+
 ### Lecture Sessions 
 
 I. Introduction to the course - Slides Link
@@ -11,10 +13,10 @@ I. Introduction to the course - Slides Link
   * Participants
   * Course Goals
 
-II. Costa Rica coral restoration - Slides Link
+II. Costa Rica coral restoration - Slides Link 
   * Raising Coral Costa Rica
   * Culebra Reef Gardens
-  * Description of Pocillopora samples to be analyzed during the workshop
+  * Description of *Pocillopora* samples to be analyzed during the workshop
 
 III. Fundamentals of genetics and evolution - Slides Link
   * DNA structure and chromosomal organization
@@ -55,6 +57,8 @@ VII. Coral biodiversity research at the Smithsonian: STRI field research and NMN
 VIII. Conservation genetics for coral restoration
 
 IX. Genomics and high-throughput sequencing in conservation biology
+
+***
 
 ### Laboratory Hands-On Sessions
 
