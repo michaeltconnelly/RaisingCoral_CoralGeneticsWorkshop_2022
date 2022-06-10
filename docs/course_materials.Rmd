@@ -8,19 +8,20 @@ title: "Course Materials - Costa Rica coral genetics workshop for conservation a
 
 ### Lecture Sessions 
 
-I. Introduction to the course - Slide  Links: [ES](https://drive.google.com/file/d/1Q4EfOdMmATJr1qH5C2riH3g5SCA192wK/view?usp=sharing)
+
+I. Introduction to the course - Slide  Links: *will be posted 06/22/2022* [ES](https://drive.google.com/file/d/1Q4EfOdMmATJr1qH5C2riH3g5SCA192wK/view?usp=sharing), [EN]()
 
   * Instructors
   * Participants
   * Course Goals
 
-II. Costa Rica coral restoration - Slide Links
+II. Costa Rica coral restoration - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
 
-  * Raising Coral Costa Rica
-  * Culebra Reef Gardens
-  * Description of *Pocillopora* samples to be analyzed during the workshop
+  * [Raising Coral Costa Rica](https://www.raisingcoral.org/)
+  * [Culebra Reef Gardens](https://culebrareefgardens.org/home/)
+  * *Pocillopora* samples to be analyzed during the workshop
 
-III. Fundamentals of genetics and evolution - Slides Link
+III. Fundamentals of genetics and evolution - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
 
   * DNA structure and chromosomal organization
   * Mendelian inheritance
@@ -31,7 +32,7 @@ III. Fundamentals of genetics and evolution - Slides Link
 	    + Gel electrophoresis
 	    + Restriction fragment length polymorphism
 
-IV. Introduction to conservation genetics and species delimitation - Slides Link
+IV. Introduction to conservation genetics and species delimitation - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
   * Extinction
   * Genetic diversity 
   * Importance of species delimitation and taxonomy
@@ -39,27 +40,27 @@ IV. Introduction to conservation genetics and species delimitation - Slides Link
 
 VI. Eastern Pacific coral diversity
 
-  *Family 
-    + Carophyllia
-    + Fungia
-    + Gardinoseris
-    + Leptoseris
-    + Pavona
-    + Pocillopora
-    + Porites
-    + Psammocora
-    + Tubastrea
+  * Families
+      + Carophyllia
+      + Fungia
+      + Gardinoseris
+      + Leptoseris
+      + Pavona
+      + Pocillopora
+      + Porites
+      + Psammocora
+      + Tubastrea
 
 VI. Coral-algae symbiosis in the eastern tropical Pacific
 
 
-VII. Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections
+VII. Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
   * Anthozoan evolution, coral diversity and morphology-based taxonomy
   * Coral extinctions and current trajectories
 
-VIII. Conservation genetics for coral restoration
+VIII. Conservation genetics for coral restoration - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
 
-IX. Genomics and high-throughput sequencing in conservation biology
+IX. Genomics and high-throughput sequencing in conservation biology - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
 
 ***
 
@@ -68,18 +69,18 @@ IX. Genomics and high-throughput sequencing in conservation biology
 Laboratory safety and techniques
 
 1. DNA extraction
-  * Protocol Link (protocols.io?)
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()
 
 2. DNA concentration, purity and quality check
-  * Protocol Link
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()
 
 3. Gel electrophoresis
-  * Protocol Link
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()
 
 4. Polymerase chain reaction (PCR)
-  * Protocol Link
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()
 
 5. Restriction fragment length polymorphism (RFLP) assays
-  * Protocol Link
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()
 
 

@@ -10,4 +10,12 @@ navbar:
       href: resources.html
     - text: "References"
       href: references.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/michaeltconnelly/RaisingCoral_CoralGeneticsWorkshop_2022
 output_dir: "."
+output:
+  html_document:
+    fig_caption: true
+    toc: true
+    toc_float: true

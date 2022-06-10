@@ -2,7 +2,9 @@
 title: "References"
 ---
 
-## Papers to read for background information
+***
+
+### Papers to read for background information
 
 [The mitochondrial genome of Pocillopora (Cnidaria: Scleractinia) contains two variable regions: The putative D-loop and a novel ORF of unknown function](https://www.sciencedirect.com/science/article/abs/pii/S0378111907003666?via%3Dihub)
 
@@ -48,7 +50,8 @@ title: "References"
 
 ***
 
-## Eastern Tropical Pacific coral biodiversity and biogeographic patterns 
+### Eastern Tropical Pacific coral biodiversity and biogeographic patterns 
+*links being added*
 
 A biogeographic analysis and review of the far eastern Pacific coral reef region
 
@@ -58,7 +61,8 @@ Coral reef resilience to thermal stress in the Eastern Tropical Pacific
 
 ***
 
-## Referencias en español
+### Referencias en español 
+*links being added*
 
 Arrecifes coralinos del Pacífico Oriental Tropical: Revisión y perspectivas
 
