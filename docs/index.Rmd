@@ -5,7 +5,7 @@ output:
     toc: false
     code_folding: null
     number_sections: false
-    theme: "default"
+    theme: "cerulean"
 ---
 
 ## Raising Coral Costa Rica presents:

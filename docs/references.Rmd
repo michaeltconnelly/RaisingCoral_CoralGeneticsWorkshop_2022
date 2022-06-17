@@ -1,5 +1,11 @@
 ---
 title: "References"
+output:
+   html_document:
+    toc: true
+    code_folding: null
+    number_sections: false
+    theme: "cerulean"
 ---
 
 ***

@@ -1,5 +1,11 @@
 ---
 title: "Resources"
+output:
+   html_document:
+    toc: true
+    code_folding: null
+    number_sections: false
+    theme: "cerulean"
 ---
 
 ### Resources for learning fundamentals of genetics, evolution, and conservation genomics
