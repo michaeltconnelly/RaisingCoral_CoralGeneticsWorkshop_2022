@@ -1,5 +1,11 @@
 ---
 title: "Course Materials - Costa Rica coral genetics workshop for conservation and restoration"
+output:
+   html_document:
+    toc: true
+    code_folding: null
+    number_sections: false
+    theme: "default"
 ---
 
 ## Course Outline
