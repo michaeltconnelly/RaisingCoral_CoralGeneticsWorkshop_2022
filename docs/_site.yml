@@ -16,6 +16,7 @@ navbar:
 output_dir: "."
 output:
   html_document:
+    theme: cerulean
     fig_caption: true
     toc: true
     toc_float: true
