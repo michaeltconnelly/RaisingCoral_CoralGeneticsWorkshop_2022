@@ -1,8 +1,13 @@
 ---
 title: "Home"
+output:
+   html_document:
+    toc: false
+    code_folding: null
+    number_sections: false
 ---
 
-# Raising Coral Costa Rica presents:
+## Raising Coral Costa Rica presents:
 
 <img align="left" src="./images/English.png" width="400" alt="Workshop flyer">  
 
