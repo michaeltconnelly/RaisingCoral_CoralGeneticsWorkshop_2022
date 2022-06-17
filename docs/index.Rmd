@@ -1,5 +1,6 @@
 ---
 title: "Home"
+output: html_document
 ---
 
 # Raising Coral Costa Rica presents:
