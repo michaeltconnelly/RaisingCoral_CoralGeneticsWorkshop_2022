@@ -12,5 +12,5 @@ output:
 
 <img align="left" src="./images/English.png" width="400" alt="Workshop flyer">  
 
-<img align="left" src="./images/WorkshopSchedule.jpeg" width="800" alt="Workshop schedule"> 
+<img align="left" src="./images/WorkshopSchedule.jpeg" width="600" alt="Workshop schedule"> 
 
