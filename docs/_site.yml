@@ -1,6 +1,6 @@
-name: "Raising Coral Workshop"
+name: "Raising Coral Genetics Workshop"
 navbar:
-  title: "Raising Coral Workshop"
+  title: "Raising Coral Genetics Workshop"
   left:
     - text: "Home"
       href: index.html

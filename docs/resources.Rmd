@@ -8,13 +8,25 @@ output:
     theme: "cerulean"
 ---
 
+***
+
 ### Resources for learning fundamentals of genetics, evolution, and conservation genomics
-*currently being added*
+*currently being added*  
+
+* [Molecular Biology | Fundamentals of Biology - MIT OpenCourseWare](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/molecular-biology/)
+* [Genetics | Fundamentals of Biology - MIT OpenCourseWare](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/genetics/)
+* [NIH Genomics Education Websites](https://www.genome.gov/about-genomics/teaching-tools/Genomics-Education-Websites)
+* [DNA from the Beginning](http://dnaftb.org/)
+* [Molecular Biology of the Cell, 4th ed.](https://www.ncbi.nlm.nih.gov/books/NBK21054/) NCBI Bookshelf
+* [Introduction to Conservation Genetics, 2nd ed.](https://books.google.com/books?id=BucgAwAAQBAJ) Google Books
 
 ***
 
 ### Resources for learning about DNA extraction and molecular biology laboratory techniques
-*currently being added*
+*currently being added*  
+
+* [Genetics Learning Resources](https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/teaching-the-genome-generation/stem-learning-resources)
+* [CDC Laboratory Training: Basic Molecular Biology](https://www.cdc.gov/labtraining/training-courses/basic-molecular-biology/index.html)
 
 ***
 
@@ -29,3 +41,8 @@ output:
 * Practice exercises in [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) book 
 * Create a [GitHub](https://github.com/) account and make your first repository 
 * Begin using [RMarkdown](https://rmarkdown.rstudio.com/) and create an [R notebook for making simple plots](https://rmarkdown.rstudio.com/lesson-10.html)
+
+***
+
+### Recursos en español
+

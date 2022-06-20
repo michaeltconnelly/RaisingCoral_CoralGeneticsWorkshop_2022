@@ -8,6 +8,8 @@ output:
     theme: "cerulean"
 ---
 
+***
+
 ## Webinar Information
 
 Please use the following [Zoom link](https://smithsonian.zoom.us/j/87901849006?pwd=VzdJSFM3Z2hWN2krZGlVbWwvTnFJUT09) and meeting information to log-in to the lecture sessions. The lecture sessions will also be **recorded** and posted online at a later time following the workshop.
@@ -16,6 +18,8 @@ Please use the following [Zoom link](https://smithsonian.zoom.us/j/87901849006?p
 Meeting ID: 879 0184 9006  
 Passcode: genetica  
 (works for all lecture sessions)  
+
+***
 
 ## Course Schedule
 
@@ -90,8 +94,6 @@ Lecture VIII. **Conservation genetics for coral restoration** - Slide Links *wil
 
 Lecture IX. **Genomics and high-throughput sequencing in conservation biology** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
 
-
-***
 
 ### Laboratory Hands-On Sessions
 
