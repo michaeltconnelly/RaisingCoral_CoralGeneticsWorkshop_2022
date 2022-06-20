@@ -8,9 +8,13 @@ output:
     theme: "cerulean"
 ---
 
-## Raising Coral Costa Rica presents:
 
-<img align="left" src="./images/English.png" width="400" alt="Workshop flyer">  
+## Coral genetics workshop for conservation and restoration  
+#### Building capacity for genetic analysis to support coral reef restoration in Costa Rica
 
-<img align="left" src="./images/WorkshopSchedule.jpeg" width="600" alt="Workshop schedule"> 
+<img src="./images/English.png" width="400">
 
+## Taller genética de corales para la conservación y restauración
+#### Creación de capacidad nacional para el análisis genético de corales con fines de restauración y conservación de arrecifes coralinos en Costa Rica
+
+<img src="./images/Español.png" width="400">

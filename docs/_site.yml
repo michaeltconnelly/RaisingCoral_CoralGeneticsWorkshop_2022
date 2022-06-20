@@ -4,12 +4,17 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Course Materials"
+    - text: "Course Overview"
       href: course_materials.html
     - text: "Resources"
       href: resources.html
     - text: "References"
       href: references.html
+  right: 
+    - icon: fa-github fa-lg
+      href: https://github.com/michaeltconnelly/RaisingCoral_CoralGeneticsWorkshop_2022
+    - icon: fa-google
+      href: https://drive.google.com/drive/folders/1aOZN-b81FRTy79183tyoSzt0b_monW0y?usp=sharing
 output_dir: "."
 output:
   html_document:

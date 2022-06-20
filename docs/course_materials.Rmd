@@ -1,5 +1,5 @@
 ---
-title: "Course Materials - Costa Rica coral genetics workshop for conservation and restoration"
+title: "Course Overview"
 output:
    html_document:
     toc: true
@@ -8,66 +8,88 @@ output:
     theme: "cerulean"
 ---
 
-## Course Outline
+## Webinar Information
+
+Please use the following [Zoom link](https://smithsonian.zoom.us/j/87901849006?pwd=VzdJSFM3Z2hWN2krZGlVbWwvTnFJUT09) and meeting information to log-in to the lecture sessions. The lecture sessions will also be **recorded** and posted online at a later time following the workshop.
+
+**Coral Genetics Workshop / Taller Genética ** [Zoom Link](https://smithsonian.zoom.us/j/87901849006?pwd=VzdJSFM3Z2hWN2krZGlVbWwvTnFJUT09)  
+Meeting ID: 879 0184 9006  
+Passcode: genetica  
+(works for all lecture sessions)  
+
+## Course Schedule
+
+```{r schedule_table, echo = FALSE, message = FALSE}
+library("tidyverse")
+schedule <- read_csv("./csvs/schedule.csv")
+knitr::kable(schedule)
+```
 
 ***
 
-### Lecture Sessions 
+## Course Materials
+### Lecture Sessions
 
-[Zoom Link](https://smithsonian.zoom.us/j/87901849006?pwd=VzdJSFM3Z2hWN2krZGlVbWwvTnFJUT09) (works for all sessions)
-
-I. Introduction to the course - Slide  Links: *will be posted 06/22/2022* [ES](https://drive.google.com/file/d/1Q4EfOdMmATJr1qH5C2riH3g5SCA192wK/view?usp=sharing), [EN]()
+Lecture I. **Introduction to the course** - Slide Links: *will be posted 06/22/2022* [ES](https://drive.google.com/file/d/1Q4EfOdMmATJr1qH5C2riH3g5SCA192wK/view?usp=sharing), [EN]()  
 
   * Instructors
   * Participants
-  * Course Goals
+  * Course Goals  
+  
 
-II. Costa Rica coral restoration - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
+Lecture II. **Costa Rica coral restoration** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
 
   * [Raising Coral Costa Rica](https://www.raisingcoral.org/)
   * [Culebra Reef Gardens](https://culebrareefgardens.org/home/)
-  * *Pocillopora* samples to be analyzed during the workshop
+  * *Pocillopora* samples to be analyzed during the workshop  
+  
 
-III. Fundamentals of genetics and evolution - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
+Lecture III. **Fundamentals of genetics and evolution** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
 
   * DNA structure and chromosomal organization
   * Mendelian inheritance
   * Evolution by natural selection
   * Molecular methods in genetics
-	    + DNA extraction
-	    + Polymerase chain reaction
-	    + Gel electrophoresis
-	    + Restriction fragment length polymorphism
+	 - DNA extraction
+	 - Polymerase chain reaction
+	 - Gel electrophoresis
+	 - Restriction fragment length polymorphism  
+	 
 
-IV. Introduction to conservation genetics and species delimitation - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
+Lecture IV. **Introduction to conservation genetics and species delimitation** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
+
   * Extinction
   * Genetic diversity 
   * Importance of species delimitation and taxonomy
-  * Measuring genetic diversity - mtDNA, microsatellites, SNPs, whole genomes
+  * Measuring genetic diversity - mtDNA, microsatellites, SNPs, whole genomes  
+  
 
-VI. Eastern Pacific coral diversity
+Lecture V. **Eastern Pacific coral diversity**
 
   * Families
-      + Carophyllia
-      + Fungia
-      + Gardinoseris
-      + Leptoseris
-      + Pavona
-      + Pocillopora
-      + Porites
-      + Psammocora
-      + Tubastrea
+      + *Carophyllia*
+      + *Fungia*
+      + *Gardinoseris*
+      + *Leptoseris*
+      + *Pavona*
+      + *Pocillopora*
+      + *Porites*
+      + *Psammocora*
+      + *Tubastrea*
 
-VI. Coral-algae symbiosis in the eastern tropical Pacific
+Lecture VI. **Coral-algae symbiosis in the eastern tropical Pacific**
 
 
-VII. Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
+Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
+
   * Anthozoan evolution, coral diversity and morphology-based taxonomy
   * Coral extinctions and current trajectories
 
-VIII. Conservation genetics for coral restoration - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
+Lecture VIII. **Conservation genetics for coral restoration** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
 
-IX. Genomics and high-throughput sequencing in conservation biology - Slide Links *will be posted 06/22/2022* [ES](), [EN]()
+
+Lecture IX. **Genomics and high-throughput sequencing in conservation biology** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
+
 
 ***
 
@@ -75,19 +97,28 @@ IX. Genomics and high-throughput sequencing in conservation biology - Slide Link
 
 Laboratory safety and techniques
 
-1. DNA extraction
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()
+Lab 1. **DNA extraction**  
 
-2. DNA concentration, purity and quality check
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
 
-3. Gel electrophoresis
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()
+Lab 2. **DNA concentration, purity and quality check**  
 
-4. Polymerase chain reaction (PCR)
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
+  
+Lab 3. **Polymerase chain reaction (PCR)**  
 
-5. Restriction fragment length polymorphism (RFLP) assays
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
+
+Lab 4. **Gel electrophoresis**  
+
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
+  
+Lab 5. **PCR cleanup and Sanger sequencing preparation**  
+
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
+
+Lab 6. **Restriction fragment length polymorphism (RFLP) assays**  
+
+  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
 
 
