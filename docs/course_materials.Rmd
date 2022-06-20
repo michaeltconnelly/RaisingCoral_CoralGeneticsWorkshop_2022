@@ -21,6 +21,23 @@ Passcode: genetica
 
 ***
 
+## Course Location
+
+The in-person course will be hosted at the University of Costa Rica [(UCR)](https://www.ucr.ac.cr/) Rodrigo Facio campus in San José, Costa Rica. The hands-on laboratory training sessions will be held in the Centro de Investigación en Ciencias del Mar y Limnología [(CIMAR)](http://cimar.ucr.ac.cr/) molecular laboratories.
+```{r include = FALSE}
+library(leaflet)
+library(dplyr)
+```
+```{r echo=FALSE}
+# Use the leaflet map below to explore the UCR campus area. 
+leaflet() %>%
+  setView(lng=-84.048011, lat=9.937697, zoom = 16) %>%
+  addTiles() %>%
+  addMarkers(lng=-84.043839, lat=9.939399, popup="University of Costa Rica CIMAR laboratory") 
+```
+
+***
+
 ## Course Schedule
 
 ```{r schedule_table, echo = FALSE, message = FALSE}
