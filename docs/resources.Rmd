@@ -42,6 +42,21 @@ output:
 * Create a [GitHub](https://github.com/) account and make your first repository 
 * Begin using [RMarkdown](https://rmarkdown.rstudio.com/) and create an [R notebook for making simple plots](https://rmarkdown.rstudio.com/lesson-10.html)
 
+### Software resources
+* MEGAX
+* Unix command line (bash/zsh)
+* Git & GitHub accounts
+* R & RStudio
+* R packages
+    + tidyverse  
+    + ape  
+    + adegenet  
+    + pegas
+* PHYLUCE
+* samtools
+* IQ-TREE
+* RAxML
+
 ***
 
 ### Recursos en español

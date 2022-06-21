@@ -51,21 +51,21 @@ knitr::kable(schedule)
 ## Course Materials
 ### Lecture Sessions
 
-Lecture I. **Introduction to the course** - Slide Links: *will be posted 06/22/2022* [ES](https://drive.google.com/file/d/1Q4EfOdMmATJr1qH5C2riH3g5SCA192wK/view?usp=sharing), [EN]()  
+Lecture I. **Introduction to the course** - Slide Links: [ES](https://drive.google.com/file/d/1ftIh5SuB7WzQQHMdXtOZbxhqnlBC65pr/view?usp=sharing), [EN](https://drive.google.com/file/d/10rGOLci_T9MWXvaupDgHetk1TH8p1z0H/view?usp=sharing)  
 
   * Instructors
   * Participants
   * Course Goals  
   
 
-Lecture II. **Costa Rica coral restoration** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
+Lecture II. **Costa Rica coral restoration** - Slide Links *will be posted before the course*: [ES](), [EN]()  
 
   * [Raising Coral Costa Rica](https://www.raisingcoral.org/)
   * [Culebra Reef Gardens](https://culebrareefgardens.org/home/)
   * *Pocillopora* samples to be analyzed during the workshop  
   
 
-Lecture III. **Fundamentals of genetics and evolution** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
+Lecture III. **Fundamentals of genetics and evolution** - Slide Links *will be updated before the course*: [ES](https://drive.google.com/file/d/1krFC8hoQ-p89hlLXsp1C42ijPoYbOoFT/view?usp=sharing), [EN](https://drive.google.com/file/d/1P0lsIbODf_r90NwCZx9WraCqbTxeAqwy/view?usp=sharing)  
 
   * DNA structure and chromosomal organization
   * Mendelian inheritance
@@ -75,9 +75,10 @@ Lecture III. **Fundamentals of genetics and evolution** - Slide Links *will be p
 	 - Polymerase chain reaction
 	 - Gel electrophoresis
 	 - Restriction fragment length polymorphism  
+	 - Sequencing
 	 
 
-Lecture IV. **Introduction to conservation genetics and species delimitation** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
+Lecture IV. **Introduction to conservation genetics and species delimitation** - Slide Links *will be posted 06/23/2022*: [ES](), [EN]()  
 
   * Extinction
   * Genetic diversity 
@@ -85,7 +86,7 @@ Lecture IV. **Introduction to conservation genetics and species delimitation** -
   * Measuring genetic diversity - mtDNA, microsatellites, SNPs, whole genomes  
   
 
-Lecture V. **Eastern Pacific coral diversity**
+Lecture V. **Eastern Pacific coral diversity** - Slide Links *will be posted before the course*: [ES](), [EN]()  
 
   * Families
       + *Carophyllia*
@@ -98,18 +99,18 @@ Lecture V. **Eastern Pacific coral diversity**
       + *Psammocora*
       + *Tubastrea*
 
-Lecture VI. **Coral-algae symbiosis in the eastern tropical Pacific**
+Lecture VI. **Coral-algae symbiosis in the eastern tropical Pacific** - Slide Links *will be posted before the course*: [ES](), [EN]()  
 
 
-Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
+Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections** - Slide Links *will be posted 06/23/2022*: [ES](), [EN]()  
 
   * Anthozoan evolution, coral diversity and morphology-based taxonomy
   * Coral extinctions and current trajectories
 
-Lecture VIII. **Conservation genetics for coral restoration** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
+Lecture VIII. **Conservation genetics for coral restoration** - Slide Links *will be posted 06/27/2022*: [ES](), [EN]()  
 
 
-Lecture IX. **Genomics and high-throughput sequencing in conservation biology** - Slide Links *will be posted 06/22/2022* [ES](), [EN]()  
+Lecture IX. **Genomics and high-throughput sequencing in conservation biology** - Slide Links *will be posted 07/01/2022*: [ES](), [EN]()  
 
 
 ### Laboratory Hands-On Sessions
@@ -118,26 +119,26 @@ Laboratory safety and techniques
 
 Lab 1. **DNA extraction**  
 
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
+  * Protocol Links *will be posted 06/22/2022*: [ES](), [EN]()  
 
 Lab 2. **DNA concentration, purity and quality check**  
 
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
+  * Protocol Links *will be posted 06/22/2022*: [ES](), [EN]()  
   
 Lab 3. **Polymerase chain reaction (PCR)**  
 
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
+  * Protocol Links: [ES](https://drive.google.com/file/d/1EvOnqZw1gyBvOeh_lQBrsTHxsGO2K6bZ/view?usp=sharing), [EN](https://drive.google.com/file/d/12TYm0kLN3vuJRRhn8vMLkyn68kLIP8h6/view?usp=sharing)  
 
 Lab 4. **Gel electrophoresis**  
 
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
+  * Protocol Links *will be posted 06/22/2022*: [ES](), [EN]()  
   
 Lab 5. **PCR cleanup and Sanger sequencing preparation**  
 
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
+  * Protocol Links *will be posted 07/05/2022*: [ES](), [EN]()  
 
 Lab 6. **Restriction fragment length polymorphism (RFLP) assays**  
 
-  * Protocol Link *will be posted 06/22/2022* [ES](), [EN]()  
+  * Protocol Links *will be posted 07/05/2022*: [ES](), [EN]()  
 
-
+*Note that some protocols may be updated prior to the workshop laboratory sessions*

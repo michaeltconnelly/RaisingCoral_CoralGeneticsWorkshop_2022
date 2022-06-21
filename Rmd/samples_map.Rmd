@@ -1,0 +1,71 @@
+---
+title: "Costa Rica Samples Map"
+author: "Mike Connelly"
+date: "6/21/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+```
+
+```{r packages, include=FALSE}
+library("tidyverse")
+library("marmap")
+library("ggnewscale")
+```
+
+```{r import data, message=FALSE}
+sites <- read_csv("./data/costarica_sites_coordinates.csv")
+```
+
+## Map of Pocillopora sample origins using marmap package
+```{r colors, include=FALSE }
+gg_color_hue <- function(n) {
+  hues = seq(15, 375, length = n + 1)
+  hcl(h = hues, l = 65, c = 100)[1:n]
+}
+gcolors <- gg_color_hue(n_distinct(sites$Site))
+# gcolors <- gg_color_hue(2)
+```
+```{r query, include=FALSE}
+# get ETP bathymetric data
+costa_rica <- getNOAA.bathy(lon1 = -86.5, lon2 = -81.5,
+                        lat1 = 8, lat2 = 12, resolution = 1)
+```
+```{r map, message=FALSE, warning=FALSE}
+# pdf("./outputs/figures/Fig1_samples_locations_map_bathymetry.pdf", width = 8, height = 6)
+title <- expression('Costa Rica '*italic("Pocillopora")*' coral origins')
+# Plot bathy object using custom ggplot2 functions
+par(mar = c(0.5, 0.5, 0.5, 0.5))
+autoplot(costa_rica, geom=c("r", "c"), color = "white", size = 0.01) + 
+  scale_fill_etopo(name = "Depth (m)") + 
+  new_scale_fill() +
+  geom_point(data = sites,
+             aes(x = `Longitude`, y = `Latitude`, size = `count`, fill = `Site`),
+             shape = 21, alpha = 0.9, color = "black", stroke = 0.3,
+             position = position_jitter(width = 0.1, height = 0.1, seed = 3),
+             show.legend = T) +
+  scale_fill_manual(values = gcolors,
+                    guide = guide_legend(order = 2,
+                                         override.aes = list(size = 4,
+                                                             shape = 21, 
+                                                             fill = gcolors),
+                                         nrow = 5, title.position = "top")) +
+  scale_size(range = c(2, 6), breaks = c(1, 10, 20), limits = c(0, 20),
+             name = "# of samples",
+             guide = guide_legend(order = 3, override.aes = list(fill = "black"),
+                                  nrow = 5, title.position = "top")) +
+  labs(x="Longitude", y="Latitude", elevation = "Elevation") +
+  theme(panel.grid.major = element_blank(),
+        panel.background = element_rect(fill = "#f0f8ff"),
+        panel.border = element_rect(fill = NA),
+        plot.title = element_text(size = 16),
+        axis.title = element_text(size = 14), 
+        axis.text = element_text(size = 12),
+        legend.title = element_text(size = 14),
+        legend.text = element_text(size = 12),
+        legend.margin = margin(0,0,0,0)) +
+  ggtitle(title)
+```
