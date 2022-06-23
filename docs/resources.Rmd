@@ -27,6 +27,8 @@ output:
 
 * [Genetics Learning Resources](https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/teaching-the-genome-generation/stem-learning-resources)
 * [CDC Laboratory Training: Basic Molecular Biology](https://www.cdc.gov/labtraining/training-courses/basic-molecular-biology/index.html)
+* [Integrated DNA Technologies (IDT) Education Pages](https://www.idtdna.com/pages/education/)
+* [IDT Genotyping: Terms to Know](https://www.idtdna.com/pages/education/decoded/article/genotyping-terms-to-know)
 
 ***
 
@@ -40,24 +42,30 @@ output:
 * Start practicing the exercises in the [R for Data Science](https://r4ds.had.co.nz/) book 
 * Practice exercises in [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) book 
 * Create a [GitHub](https://github.com/) account and make your first repository 
+* Follow the beginner [Git tutorials](https://swcarpentry.github.io/git-novice/) for Software Carpentries
 * Begin using [RMarkdown](https://rmarkdown.rstudio.com/) and create an [R notebook for making simple plots](https://rmarkdown.rstudio.com/lesson-10.html)
 
-### Software resources
-* MEGAX
-* Unix command line (bash/zsh)
-* Git & GitHub accounts
-* R & RStudio
+#### Additional Software resources
+
+* MEGA ([Link](https://www.megasoftware.net/)) - Molecular Evolutionary Genetics Analysis (MEGA) software
 * R packages
-    + tidyverse  
-    + ape  
-    + adegenet  
-    + pegas
-* PHYLUCE
-* samtools
-* IQ-TREE
-* RAxML
+    + [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html) and [tidyverse homepage](https://www.tidyverse.org/)
+    + [ape](https://cran.r-project.org/web/packages/ape/index.html) and [ape homepage](http://ape-package.ird.fr/)
+    + [adegenet](https://cran.r-project.org/web/packages/adegenet/index.html) and [adegenet homepage](https://adegenet.r-forge.r-project.org/)
+    + [pegas](https://cran.r-project.org/web/packages/pegas/index.html)
+    + [poppr](https://cran.r-project.org/web/packages/poppr/index.html) and [poppr homepage](https://grunwaldlab.github.io/poppr/)
+* PHYLUCE ([Link](https://phyluce.readthedocs.io/en/latest/))
+* samtools ([Link](http://www.htslib.org/))
+* IQ-TREE ([Link](http://www.iqtree.org/))
+* RAxML ([Link](https://cme.h-its.org/exelixis/web/software/raxml/))
+* BEAST2 ([Link](https://www.beast2.org/))
 
 ***
 
 ### Recursos en español
+
+Software Carpentry lecciones en español
+* [La Terminal de Unix](https://swcarpentry.github.io/shell-novice-es/)
+* [El Control de Versiones con Git](https://swcarpentry.github.io/git-novice-es/)
+* [R para Análisis Científicos Reproducibles](https://swcarpentry.github.io/r-novice-gapminder-es/)
 
