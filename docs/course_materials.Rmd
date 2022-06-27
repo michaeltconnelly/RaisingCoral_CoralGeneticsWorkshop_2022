@@ -65,7 +65,7 @@ Lecture II. **Costa Rica coral restoration** - Slide Links *will be posted befor
   * *Pocillopora* samples to be analyzed during the workshop  
   
 
-Lecture III. **Fundamentals of genetics and evolution** - Slide Links *will be updated before the course*: [ES](https://drive.google.com/file/d/1krFC8hoQ-p89hlLXsp1C42ijPoYbOoFT/view?usp=sharing), [EN](https://drive.google.com/file/d/1P0lsIbODf_r90NwCZx9WraCqbTxeAqwy/view?usp=sharing)  
+Lecture III. **Fundamentals of genetics and evolution** - Slide Links: [ES](https://drive.google.com/file/d/1krFC8hoQ-p89hlLXsp1C42ijPoYbOoFT/view?usp=sharing), [EN](https://drive.google.com/file/d/1P0lsIbODf_r90NwCZx9WraCqbTxeAqwy/view?usp=sharing)  
 
   * DNA structure and chromosomal organization
   * Mendelian inheritance
@@ -78,7 +78,7 @@ Lecture III. **Fundamentals of genetics and evolution** - Slide Links *will be u
 	 - Sequencing
 	 
 
-Lecture IV. **Introduction to conservation genetics and species delimitation** - Slide Links *will be posted 06/23/2022*: [ES](), [EN]()  
+Lecture IV. **Introduction to conservation genetics and species delimitation** - Slide Links *will be updated before the course*: [ES](https://drive.google.com/file/d/14TfRnt9PG4GEE4P_sIgNit0V8Teu3RZy/view?usp=sharing), [EN](https://drive.google.com/file/d/1LFBl4LjfVHU7ksbZHxAy7JnzaRfzLhUL/view?usp=sharing)  
 
   * Extinction
   * Genetic diversity 
@@ -102,7 +102,7 @@ Lecture V. **Eastern Pacific coral diversity** - Slide Links *will be posted bef
 Lecture VI. **Coral-algae symbiosis in the eastern tropical Pacific** - Slide Links *will be posted before the course*: [ES](), [EN]()  
 
 
-Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections** - Slide Links *will be posted 06/23/2022*: [ES](), [EN]()  
+Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections** - Slide Links *will be posted before the course*: [ES](), [EN]()  
 
   * Anthozoan evolution, coral diversity and morphology-based taxonomy
   * Coral extinctions and current trajectories
@@ -119,11 +119,11 @@ Laboratory safety and techniques
 
 Lab 1. **DNA extraction**  
 
-  * Protocol Links *will be posted 06/22/2022*: [ES](), [EN]()  
+  * Protocol Links *will be posted 07/12/2022*: [ES](), [EN]()  
 
 Lab 2. **DNA concentration, purity and quality check**  
 
-  * Protocol Links *will be posted 06/22/2022*: [ES](), [EN]()  
+  * Protocol Links *will be posted 07/12/2022*: [ES](), [EN]()  
   
 Lab 3. **Polymerase chain reaction (PCR)**  
 
@@ -131,14 +131,14 @@ Lab 3. **Polymerase chain reaction (PCR)**
 
 Lab 4. **Gel electrophoresis**  
 
-  * Protocol Links *will be posted 06/22/2022*: [ES](), [EN]()  
+  * Protocol Links *will be posted 07/12/2022*: [ES](), [EN]()  
   
 Lab 5. **PCR cleanup and Sanger sequencing preparation**  
 
-  * Protocol Links *will be posted 07/05/2022*: [ES](), [EN]()  
+  * Protocol Links *will be posted 07/12/2022*: [ES](), [EN]()  
 
 Lab 6. **Restriction fragment length polymorphism (RFLP) assays**  
 
-  * Protocol Links *will be posted 07/05/2022*: [ES](), [EN]()  
+  * Protocol Links *will be posted 07/14/2022*: [ES](), [EN]()  
 
 *Note that some protocols may be updated prior to the workshop laboratory sessions*
