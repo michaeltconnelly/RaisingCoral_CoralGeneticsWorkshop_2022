@@ -11,3 +11,10 @@ output: html_document
 
 ```
 
+```{r include = FALSE}
+# diagram of laboratory workflow for Pocillopora identification
+  # * Species identification
+  # * MLG identification
+
+```
+
