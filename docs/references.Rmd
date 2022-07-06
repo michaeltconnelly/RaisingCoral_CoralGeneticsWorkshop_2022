@@ -83,6 +83,22 @@ output:
 
 ***
 
+### Conservation genomics reviews and methods references
+
+* [Whole-genome sequencing approaches for conservation biology: Advantages, limitations and practical recommendations](https://doi.org/10.1111/mec.14264)
+
+* [Genomics and the challenging translation into conservation practice](https://doi.org/10.1016/j.tree.2014.11.009)
+
+* [A conservation genomics workflow to guide practical management actions](https://doi.org/10.1016/j.gecco.2021.e01492)
+
+* [Conservation of biodiversity in the genomics era](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1520-3)
+
+* [The era of reference genomes in conservation genomics](https://doi.org/10.1016/j.tree.2021.11.008)
+
+* [Combining ultraconserved elements and mtDNA data to uncover lineage diversity in a Mexican highland frog (Sarcohyla; Hylidae)](https://peerj.com/articles/6045/)
+
+***
+
 ### Referencias en español 
 *links being added*
 
@@ -93,6 +109,8 @@ output:
 * [Comunidades coralinas y arrecifes del Área de Conservación Guanacaste, Costa Rica](https://revistas.ucr.ac.cr/index.php/rbt/article/view/30925)
 
 * [Distribución potencial bajo escenarios de cambio climático de corales del género Pocillopora (Anthozoa: Scleractinia) en el Pacífico oriental tropical](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-34532019000100613)
+
+* [Guía práctica para la Restauración de arrecifes | MAR Fund](https://marfund.org/es/wp-content/uploads/2020/09/Gu%C3%ADa-de-Capacitaci%C3%B3n-de-Restauraci%C3%B3n-de-Arrecifes.pdf)
 
 ***
 

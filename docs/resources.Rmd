@@ -64,8 +64,9 @@ output:
 
 ### Recursos en español
 
-Software Carpentry lecciones en español
-* [La Terminal de Unix](https://swcarpentry.github.io/shell-novice-es/)
-* [El Control de Versiones con Git](https://swcarpentry.github.io/git-novice-es/)
-* [R para Análisis Científicos Reproducibles](https://swcarpentry.github.io/r-novice-gapminder-es/)
+Software Carpentry lecciones en español  
+
+* [La Terminal de Unix](https://swcarpentry.github.io/shell-novice-es/)  
+* [El Control de Versiones con Git](https://swcarpentry.github.io/git-novice-es/)  
+* [R para Análisis Científicos Reproducibles](https://swcarpentry.github.io/r-novice-gapminder-es/)  
 

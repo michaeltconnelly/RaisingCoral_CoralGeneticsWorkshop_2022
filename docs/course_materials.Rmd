@@ -78,7 +78,7 @@ Lecture III. **Fundamentals of genetics and evolution** - Slide Links: [ES](http
 	 - Sequencing
 	 
 
-Lecture IV. **Introduction to conservation genetics and species delimitation** - Slide Links *will be updated before the course*: [ES](https://drive.google.com/file/d/14TfRnt9PG4GEE4P_sIgNit0V8Teu3RZy/view?usp=sharing), [EN](https://drive.google.com/file/d/1LFBl4LjfVHU7ksbZHxAy7JnzaRfzLhUL/view?usp=sharing)  
+Lecture IV. **Introduction to conservation genetics and species delimitation** - Slide Links *will be updated*: [ES](https://drive.google.com/file/d/14TfRnt9PG4GEE4P_sIgNit0V8Teu3RZy/view?usp=sharing), [EN](https://drive.google.com/file/d/1LFBl4LjfVHU7ksbZHxAy7JnzaRfzLhUL/view?usp=sharing)  
 
   * Extinction
   * Genetic diversity 
@@ -107,10 +107,10 @@ Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field resear
   * Anthozoan evolution, coral diversity and morphology-based taxonomy
   * Coral extinctions and current trajectories
 
-Lecture VIII. **Conservation genetics for coral restoration** - Slide Links *will be posted 06/27/2022*: [ES](), [EN]()  
+Lecture VIII. **Conservation genetics for coral restoration** - Slide Links *will be updated*: [ES](https://drive.google.com/file/d/1S3cMwoqDxorr0WaT2PJua1HxdYXZUxsp/view?usp=sharing), [EN](https://drive.google.com/file/d/1lKHkJji0eq91EhM9P92-gcCjYI6wQFEX/view?usp=sharing)  
 
 
-Lecture IX. **Genomics and high-throughput sequencing in conservation biology** - Slide Links *will be posted 07/01/2022*: [ES](), [EN]()  
+Lecture IX. **Genomics and high-throughput sequencing in conservation biology** - Slide Links *will be updated*: [ES](https://drive.google.com/file/d/1EmuCqtuH8cisr4jkWRg11gjBNAKLUBFW/view?usp=sharing), [EN](https://drive.google.com/file/d/1wXuxkSmgJhqv5lWOu7C5cQe8qj5A6pww/view?usp=sharing)  
 
 
 ### Laboratory Hands-On Sessions
