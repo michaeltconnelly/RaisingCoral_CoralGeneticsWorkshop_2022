@@ -99,6 +99,7 @@ Lecture V. **Eastern Pacific coral diversity** - Slide Links *will be posted bef
       + *Psammocora*
       + *Tubastrea*
 
+
 Lecture VI. **Coral-algae symbiosis in the eastern tropical Pacific** - Slide Links *will be posted before the course*: [ES](), [EN]()  
 
 
@@ -106,6 +107,7 @@ Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field resear
 
   * Anthozoan evolution, coral diversity and morphology-based taxonomy
   * Coral extinctions and current trajectories
+
 
 Lecture VIII. **Conservation genetics for coral restoration** - Slide Links *will be updated*: [ES](https://drive.google.com/file/d/1S3cMwoqDxorr0WaT2PJua1HxdYXZUxsp/view?usp=sharing), [EN](https://drive.google.com/file/d/1lKHkJji0eq91EhM9P92-gcCjYI6wQFEX/view?usp=sharing)  
 
@@ -119,19 +121,25 @@ Laboratory safety and techniques
 
 Lab 1. **DNA extraction**  
 
-  * Protocol Links *may be updated*: [ES](https://drive.google.com/file/d/1qPbAtT6upFPS2fluHbxjy-BJMC18tuHn/view?usp=sharing), [EN](https://drive.google.com/file/d/1k97Dta2huyPe9coiYbmnBVigRxC_gr2J/view?usp=sharing)  
+  * DNA extraction will be performed with the Qiagen DNeasy PowerSoil Pro Kit
+  * Protocol Links: [ES](https://drive.google.com/file/d/1c5kTg3llYlYgRiyu2CCPPEdTObcuLxtl/view?usp=sharing), [EN](https://drive.google.com/file/d/11rGMrUuXiuhXqGx6Fd1g0n-R2nI1pBQ-/view?usp=sharing)  
+
 
 Lab 2. **DNA concentration, purity and quality check**  
-
-  * Protocol Links *may be updated*: [ES](https://drive.google.com/file/d/1PZ9oN1bulc0XdWfH6w3Vc_gSGspCxoTv/view?usp=sharing), [EN](https://drive.google.com/file/d/1Bx6z3hOsD9KgTzyDkJcvMj6yRXbjqj5F/view?usp=sharing)  
+  
+  * DNA concentration and purity will be assessed using a NanoDrop 2000c spectrophotometer
+  * Protocol Links: [ES](https://drive.google.com/file/d/1qO7sQDhuevmObZRFhXduCLyslAoKO3Tb/view?usp=sharing), [EN](https://drive.google.com/file/d/1Hrd1CgEKrNJSENGeZmMJzJaUSG7eB1IW/view?usp=sharing)  
+  
   
 Lab 3. **Polymerase chain reaction (PCR)**  
 
-  * Protocol Links *may be updated*: [ES](https://drive.google.com/file/d/1EvOnqZw1gyBvOeh_lQBrsTHxsGO2K6bZ/view?usp=sharing), [EN](https://drive.google.com/file/d/12TYm0kLN3vuJRRhn8vMLkyn68kLIP8h6/view?usp=sharing)  
+  * Barcoding PCR will be performed for the *Pocillopora* mtORF, histone 3, and HSP70 loci
+  * Protocol Links: [ES](https://drive.google.com/file/d/1EvOnqZw1gyBvOeh_lQBrsTHxsGO2K6bZ/view?usp=sharing), [EN](https://drive.google.com/file/d/12TYm0kLN3vuJRRhn8vMLkyn68kLIP8h6/view?usp=sharing)  
 
 Lab 4. **Gel electrophoresis**  
 
-  * Protocol Links *may be updated*: [ES](https://drive.google.com/file/d/173HWs-nD_pMv9V7L405Hktx0pSY_TleX/view?usp=sharing), [EN](https://drive.google.com/file/d/1s4ijP--fesd14dn7vj8dzXHbuZrcobwC/view?usp=sharing)  
+  * Gel electrophoresis will be completed to visualize the success of DNA extraction and PCR techniques
+  * Protocol Links: [ES](https://drive.google.com/file/d/173HWs-nD_pMv9V7L405Hktx0pSY_TleX/view?usp=sharing), [EN](https://drive.google.com/file/d/1s4ijP--fesd14dn7vj8dzXHbuZrcobwC/view?usp=sharing)  
   
 Lab 5. **PCR cleanup and Sanger sequencing preparation**  
 
