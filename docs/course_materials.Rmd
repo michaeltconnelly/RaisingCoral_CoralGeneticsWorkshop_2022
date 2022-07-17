@@ -103,7 +103,7 @@ Lecture V. **Eastern Pacific coral diversity** - Slide Links *will be posted bef
 Lecture VI. **Coral-algae symbiosis in the eastern tropical Pacific** - Slide Links *will be posted before the course*: [ES](), [EN]()  
 
 
-Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections** - Slide Links *will be posted before the course*: [ES](), [EN]()  
+Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections** - Slide Links: [ES](https://drive.google.com/file/d/1ekine8rnY9zsAmUe0pV6V7HRlRwqVXJ0/view?usp=sharing), [EN]()  
 
   * Anthozoan evolution, coral diversity and morphology-based taxonomy
   * Coral extinctions and current trajectories
@@ -143,10 +143,10 @@ Lab 4. **Gel electrophoresis**
   
 Lab 5. **PCR cleanup and Sanger sequencing preparation**  
 
-  * Protocol Links *will be posted 07/12/2022*: [ES](), [EN]()  
+  * Protocol Links *will be posted*: [ES](), [EN]()  
 
 Lab 6. **Restriction fragment length polymorphism (RFLP) assays**  
 
-  * Protocol Links *will be posted 07/14/2022*: [ES](), [EN]()  
+  * Protocol Links *will be posted*: [ES](), [EN]()  
 
 *Note that some protocols may be updated prior to the workshop laboratory sessions*
