@@ -78,7 +78,7 @@ Lecture III. **Fundamentals of genetics and evolution** - Slide Links: [ES](http
 	 - Sequencing
 	 
 
-Lecture IV. **Introduction to conservation genetics and species delimitation** - Slide Links *will be updated*: [ES](https://drive.google.com/file/d/14TfRnt9PG4GEE4P_sIgNit0V8Teu3RZy/view?usp=sharing), [EN](https://drive.google.com/file/d/1LFBl4LjfVHU7ksbZHxAy7JnzaRfzLhUL/view?usp=sharing)  
+Lecture IV. **Introduction to conservation genetics** - Slide Links: [ES](https://drive.google.com/file/d/14TfRnt9PG4GEE4P_sIgNit0V8Teu3RZy/view?usp=sharing), [EN](https://drive.google.com/file/d/1LFBl4LjfVHU7ksbZHxAy7JnzaRfzLhUL/view?usp=sharing)  
 
   * Extinction
   * Genetic diversity 
@@ -88,22 +88,11 @@ Lecture IV. **Introduction to conservation genetics and species delimitation** -
 
 Lecture V. **Eastern Pacific coral diversity** - Slide Links *will be posted before the course*: [ES](), [EN]()  
 
-  * Families
-      + *Carophyllia*
-      + *Fungia*
-      + *Gardinoseris*
-      + *Leptoseris*
-      + *Pavona*
-      + *Pocillopora*
-      + *Porites*
-      + *Psammocora*
-      + *Tubastrea*
-
 
 Lecture VI. **Coral-algae symbiosis in the eastern tropical Pacific** - Slide Links *will be posted before the course*: [ES](), [EN]()  
 
 
-Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field research and NMNH historical collections** - Slide Links: [ES](https://drive.google.com/file/d/1ekine8rnY9zsAmUe0pV6V7HRlRwqVXJ0/view?usp=sharing), [EN]()  
+Lecture VII. **Coral biodiversity research at the Smithsonian** - Slide Links: [ES](https://drive.google.com/file/d/1ekine8rnY9zsAmUe0pV6V7HRlRwqVXJ0/view?usp=sharing), [EN]()  
 
   * Anthozoan evolution, coral diversity and morphology-based taxonomy
   * Coral extinctions and current trajectories
@@ -112,7 +101,7 @@ Lecture VII. **Coral biodiversity research at the Smithsonian: STRI field resear
 Lecture VIII. **Conservation genetics for coral restoration** - Slide Links *will be updated*: [ES](https://drive.google.com/file/d/1S3cMwoqDxorr0WaT2PJua1HxdYXZUxsp/view?usp=sharing), [EN](https://drive.google.com/file/d/1lKHkJji0eq91EhM9P92-gcCjYI6wQFEX/view?usp=sharing)  
 
 
-Lecture IX. **Genomics and high-throughput sequencing in conservation biology** - Slide Links *will be updated*: [ES](https://drive.google.com/file/d/1EmuCqtuH8cisr4jkWRg11gjBNAKLUBFW/view?usp=sharing), [EN](https://drive.google.com/file/d/1wXuxkSmgJhqv5lWOu7C5cQe8qj5A6pww/view?usp=sharing)  
+Lecture IX. **Genomics in conservation biology** - Slide Links *will be updated*: [ES](https://drive.google.com/file/d/1EmuCqtuH8cisr4jkWRg11gjBNAKLUBFW/view?usp=sharing), [EN](https://drive.google.com/file/d/1wXuxkSmgJhqv5lWOu7C5cQe8qj5A6pww/view?usp=sharing)  
 
 
 ### Laboratory Hands-On Sessions
@@ -131,7 +120,7 @@ Lab 2. **DNA concentration, purity and quality check**
   * Protocol Links: [ES](https://drive.google.com/file/d/1qO7sQDhuevmObZRFhXduCLyslAoKO3Tb/view?usp=sharing), [EN](https://drive.google.com/file/d/1Hrd1CgEKrNJSENGeZmMJzJaUSG7eB1IW/view?usp=sharing)  
   
   
-Lab 3. **Polymerase chain reaction (PCR)**  
+Labs 3,5,6. **Polymerase chain reaction (PCR)**  
 
   * Barcoding PCR will be performed for the *Pocillopora* mtORF, histone 3, and HSP70 loci
   * Protocol Links: [ES](https://drive.google.com/file/d/1EvOnqZw1gyBvOeh_lQBrsTHxsGO2K6bZ/view?usp=sharing), [EN](https://drive.google.com/file/d/12TYm0kLN3vuJRRhn8vMLkyn68kLIP8h6/view?usp=sharing)  
@@ -141,12 +130,12 @@ Lab 4. **Gel electrophoresis**
   * Gel electrophoresis will be completed to visualize the success of DNA extraction and PCR techniques
   * Protocol Links: [ES](https://drive.google.com/file/d/173HWs-nD_pMv9V7L405Hktx0pSY_TleX/view?usp=sharing), [EN](https://drive.google.com/file/d/1s4ijP--fesd14dn7vj8dzXHbuZrcobwC/view?usp=sharing)  
   
-Lab 5. **PCR cleanup and Sanger sequencing preparation**  
+Lab 7. **PCR cleanup and Sanger sequencing preparation**  
 
   * Protocol Links *will be posted*: [ES](), [EN]()  
 
-Lab 6. **Restriction fragment length polymorphism (RFLP) assays**  
+Lab 8. **Restriction fragment length polymorphism (RFLP) assays**  
 
-  * Protocol Links *will be posted*: [ES](), [EN]()  
+  * Protocol Links *will be posted in the future*: ES, EN
 
 *Note that some protocols may be updated prior to the workshop laboratory sessions*
