@@ -132,7 +132,7 @@ Lab 4. **Gel electrophoresis**
   
 Lab 7. **PCR cleanup and Sanger sequencing preparation**  
 
-  * Protocol Links *will be posted*: [ES](), [EN]()  
+  * Protocol Links: [ES](https://drive.google.com/file/d/1qB2yjMV_aFWuop7Jw5EHLZ75MyV8wFE4/view?usp=sharing), [EN](https://drive.google.com/file/d/1n838t7yazxxRt4QJMlD5Olf-k-u3fuGm/view?usp=sharing)  
 
 Lab 8. **Restriction fragment length polymorphism (RFLP) assays**  
 
